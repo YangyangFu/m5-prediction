@@ -1,0 +1,9 @@
+# data
+*.joblib
+*.csv
+*raw-data
+
+# log
+logs
+*.log
+
